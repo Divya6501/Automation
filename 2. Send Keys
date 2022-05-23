@@ -1,0 +1,3 @@
+sendKeys():
+
+The sendKeys() method is used to enter the input value to the text field.
