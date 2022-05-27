@@ -1,3 +1,5 @@
 get():
 
 The get method is used to hit the link in the launched browser.
+
+get("https://github.com/Divya6501/Automation")
