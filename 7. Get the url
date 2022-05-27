@@ -1,0 +1,3 @@
+getCurrentUrl():
+
+The getCurrentUrl() method is used to get the current url of the launched browser.
