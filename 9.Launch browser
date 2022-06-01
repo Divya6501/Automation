@@ -3,5 +3,5 @@ System.setProperty("webdriver.chrome.driver","D:\\New folder\\chromedriver_win32
 		
 WebDriver driver=new ChromeDriver();
 	
-
+driver.get("https://www.hotstar.com/in");
 		
