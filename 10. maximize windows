@@ -1,1 +1,1 @@
-driver.manage().window()
+driver.manage().window().maximize()
