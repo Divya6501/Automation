@@ -1,3 +1,9 @@
 sendKeys():
 
 The SendKeys() method is used to enter the input value to the text field.
+
+We need to pass the string value in the send key method.
+
+String username="administrator"
+
+sendKeys(username)
