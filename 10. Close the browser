@@ -1,0 +1,3 @@
+close()
+
+The close() is used to close the entire browser.
